@@ -13654,8 +13654,8 @@ video {
 .logo-gep{
   position: absolute;
   top: 33px;
-  right: -100px;
-  transform: translate(-50%, -50%);
+  right: 0;
+  margin-right: calc(8% + 1px);
   width: 200px;
   z-index: 1000;
   display: flex;

@@ -11822,6 +11822,12 @@
     padding-right: 0;
     padding: 0 20px;
   }
+  .logo-gep {
+ width: 100%;
+        right: 0;
+        transform: none;
+        margin-right: 54px;
+}
 }
 @media only screen and (max-width: 768px) {
 
@@ -11861,6 +11867,7 @@
   font-size: 35px;
 }
 
+
 .std_parga{
   margin-top:40px;
 }
@@ -11882,10 +11889,7 @@
   padding-bottom: 20px;
 }
 
-.logo-gep {
-  width: 100%;
-  right: -110px;
-}
+
 
 .mod_foot_info_li a {
   justify-content: center;
